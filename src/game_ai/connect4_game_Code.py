@@ -1,3 +1,12 @@
+"""
+Connect 4 Game AI
+
+Implements board representation, move evaluation, and minax-based decision-making.
+This code is developed and tested prior to hardware integration.
+
+Development version, subject to change
+"""
+
 import random as rand
 import numpy as np
 import time
@@ -504,6 +513,7 @@ if __name__ == "__main__":
     
     
     pass
+
 
 
 
