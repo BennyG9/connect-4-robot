@@ -28,7 +28,7 @@ An autonomous robot designed to play Connect 4 against a human opponent using pi
 - Full system integration and gameplay testing
 
 ## Media
-![Sensor prototyping photo](media/sensor-prototyping.jpeg)
+![Sensor prototyping photo](media/IMG_7559 (1).jpeg)
 
 ## Status 
 **Active development** - updated regularly. 
