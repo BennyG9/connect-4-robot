@@ -11,12 +11,12 @@ An autonomous robot designed to play Connect 4 against a human opponent using pi
 - Enable human-vs-robot interface and gameplay
 
 ## Current Progress
-###Completed 
+**Completed:** 
 - Mechanical design concept and prototyping
 - Game logic and bitboard representation
 - AI minimax algorithm
 
-###In Progress
+**In Progress:**
 
 
-###Planned Work
+**Planned Work:**
