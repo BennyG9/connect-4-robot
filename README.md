@@ -28,6 +28,7 @@ An autonomous robot designed to play Connect 4 against a human opponent using pi
 - Full system integration and gameplay testing
 
 ## Media
+_Click first image for video demo (11/13/2025)_
 [![Piece dropping prototyping](media/connect-4-prototype-thumbnail.jpg)](https://youtu.be/RXw5a7y7fcY)
 
 ![Sensor prototyping photo](media/sensors-prototyping.jpg)
