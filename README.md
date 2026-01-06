@@ -17,6 +17,17 @@ An autonomous robot designed to play Connect 4 against a human opponent using pi
 - AI minimax algorithm
 
 **In Progress:**
-
+- IR sensor circuitry for move detection
+- PID control for physical actuation
+- Minimax heuristic NES optimization
 
 **Planned Work:**
+- Design piece magazine and automatic loader for fully autonomous gameplay
+- Replace Arduino with stronger microcontroller
+- Custom PCB design
+- Full system integration and gameplay testing
+
+## Media
+
+## Status 
+**Active development** - updated regularly. 
