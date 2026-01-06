@@ -1,3 +1,7 @@
+// Connect 4 Robot - Arduino Controller
+// Handles motor control and sensor input
+// Development version, subject to change
+
 #include <Encoder.h>
 #include <Servo.h>
 
